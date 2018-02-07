@@ -1,0 +1,131 @@
+a:hover, a:focus {
+	color: #f25d3c;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-submenu:hover > a, .dropdown-submenu:focus > a ,
+ul.list li:hover a,
+.list-menu li a:hover {
+	color: #f25d3c;
+}
+#header #cart .heading h4 {
+	color: #f25d3c;
+	}
+#header #cart .content {
+	border-top: 6px solid #f25d3c;
+}
+.newsletter-submit .button {
+	background-color: #f25d3c !important;
+}
+.product-related .title-related {
+	border-left: 5px solid #f25d3c;
+}
+.dark .product-block .name a:hover,
+.dark .box-content ul li a.active,
+.dark .box-content ul li a:hover {
+	color: #f25d3c;
+}
+.title-dotted .box-heading h3 span.tcolor {
+	color: #f25d3c;
+}
+
+.shop-now a:hover ,
+.cus-title h2 {
+	color: #f25d3c;
+}
+.pagination .links b {
+    color: #f25d3c;
+}
+.checkout > a,
+a.button, input.button {
+    background: #f25d3c;
+}
+.htabs {
+	border-left: 5px solid #f25d3c;
+}
+.htabs a.selected {
+	color: #f25d3c;
+}
+.box-heading h3{
+	background: #f25d3c;
+}
+.product-block .name a:hover {
+	color: #f25d3c;
+}
+.category-list ul li a {
+    background-color: #f25d3c;
+}
+.product-filter {
+	border-left: 5px solid #f25d3c;
+}
+.product-block .group-item {
+	background: #f25d3c;
+	}
+	.contact ul li:hover {
+	color: #f25d3c;
+}
+.contact ul li:hover span {
+	background-color: #f25d3c;
+}
+
+/*module megamenu*/
+.nav.megamenu > li.open,
+.nav.megamenu > li:hover {
+    background: #f25d3c;
+}
+/*module pavcontentslider*/
+.banner-info h1 {
+    border-left: 10px solid #f25d3c;
+}
+.banner-info div p {
+    border-left: 10px solid #f25d3c;
+}
+.pavcontentslider .carousel-indicators li.active{ 
+	background: #f25d3c;
+}	
+#header #cart .heading {
+	background-position: left -285px;
+}
+.pavcontentslider .carousel-control.left {
+    background-position: left -98px;
+}
+.pavcontentslider .carousel-control.right {
+    background-position: right -98px;
+}
+.dark .box-content ul li a.active, .dark .box-content ul li a:hover {
+    background-position: left -142px;
+}
+.shop-now a:hover {
+    background-position: right -106px;
+}
+.product-block .group-item .wishlist:hover, .product-block .group-item .compare:hover, .product-block .group-item .cart:hover {
+    background-color: #be462c;
+}
+ul.list li:hover {
+    background-position: left -113px;
+}
+.copyright a {
+    color: #f25d3c;
+   }
+   .product-filter .display a.grid:hover, .product-filter .display a.grid.active {
+    background-position: left -80px;
+}
+.product-filter .display a.list:hover, .product-filter .display a.list.active {
+    background-position: -22px -81px;
+}
+.product-list .product-block .group-item .cart .button:hover, .product-compare a:hover {
+    background: url("../image/bg_compare_hover.png") repeat-x scroll left top transparent;
+    border-color: #f76849 #e65b3a #cd482a;
+    color: #fff;
+}
+.productcarousel .carousel-controls a.carousel-control {
+    background-image: url("../image/carousel_control.png");
+}
+    .dropdown .dropdown-menu li:hover, .megamenu .dropdown-mega li:hover {
+    background-position: left -149px;
+}
+.sidebar ul li a.active, .sidebar ul li a:hover {
+    background-position: left -117px;
+}
+.blog-item .readmore:hover {
+  color: #f25d3c;
+  background-position: left -115px ;
+}
